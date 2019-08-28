@@ -1,5 +1,5 @@
 # crazytaxi
-Simple, interactive car game developed using Java
+Simple, interactive car game developed using Java.
 
 Our project will focus mainly on a major Car object which will be accompanied with other major and minor objects. 
 The car is to move along a road for as long as it can without hitting the obstacles. 
