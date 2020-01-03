@@ -21,43 +21,6 @@ public class crazyTaxi
  public static void main(String...args)throws Exception
  {
   new Opening();
-  /*System.out.println("Satyam Jadav and Altamash Ali, 2015-2016.");
-  System.out.println("Choose your speed (1-3)!");
-  Scanner dif = new Scanner(System.in);
-  int difficulty = dif.nextInt();
-  int marker=0;
-
-  if(difficulty<1 || difficulty>3)
-  {
-   System.out.println("Not a valid difficulty, please try again.");
-   System.exit(1);
-  }
-
-  if(difficulty==1)`
-      marker=10;
-    if(difficulty==2)
-   marker=20;
-    if(difficulty==3)
-     marker=30;
-    
-  System.out.println("Type \"start\" to play when you're ready.");
-    Scanner begin = new Scanner(System.in);
-    String key = begin.nextLine();
-    
-  if(key.equals("start"))
-    {
-     int marker = 20;
-      JFrame j = new JFrame();  
-      MyPanelb m = new MyPanelb(marker);
-      j.setSize(m.getSize());
-      j.add(m); 
-      j.addKeyListener(m.getKeyListener());
-    j.setVisible(true); 
-
-     j.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-    }
-    else
-      System.out.println("You spelled \"start\" incorrectly."); */
  }
  
  public crazyTaxi() //creates JFrame
